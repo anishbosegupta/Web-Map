@@ -6,4 +6,3 @@ This is the sample map from class.
 
 You can also explore [this map as its own web page here](nj_dispensaries.html)
 ![image](https://github.com/anishbosegupta/Web-Map/assets/103349061/3ad1641c-38a8-41dc-aa39-4e9356bc9411)
-
